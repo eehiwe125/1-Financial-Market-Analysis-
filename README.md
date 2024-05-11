@@ -1,2 +1,2 @@
-# -Financial-Market-Analysis-
+Financial-Market-Analysis-
 Financial Market Analysis - Grocery Industry (Power Bi)
